@@ -50,7 +50,7 @@ const App = () => {
   return (
     <div className="h-screen flex flex-col">
       <audio ref={audioRef} controls className="mx-auto my-4 animate-pulse">
-        <source src="./public/Audios/TeraGhata.mp3" type="audio/mp3" />
+        <source src="./public/Tera ghata.mp3" type="audio/mp3" />
         Your browser does not support the audio element.
       </audio>
       <div className="flex space-x-4 justify-center my-4">
